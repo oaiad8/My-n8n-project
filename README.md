@@ -31,3 +31,5 @@ Automating customer support.
 Managing gym/club/service subscriptions.
 
 Keeping customer records organized in real-time.
+
+project in linkedin:
